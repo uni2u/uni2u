@@ -1,4 +1,4 @@
-@uni2u (Yongyoon SHIN)
+@uni2u
 - He worked as a research engineer at [ETRI](https://etri.re.kr/eng/main/main.etri), KOREA, between 2010 and NOW.
 - He has been working for ETRI as a _Senior Engineer_ since 2011.
 - He is member of OpenStack and Kubernetes Community.
