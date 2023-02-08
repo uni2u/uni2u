@@ -31,3 +31,8 @@
   
 ### Cloud Native Registry
 <span><img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=Harbor&logoColor=white"></span>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=uni2u&show_icons=true&count_private=true&line_height=24&theme=nord&hide=stars)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=uni2u&layout=compact&theme=nord)
