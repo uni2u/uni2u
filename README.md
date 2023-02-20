@@ -6,6 +6,10 @@
   - blog: http://uni2u.tistory.com
 
 ## Interests
+<!--
+icons: https://simpleicons.org/
+badges: https://shields.io/
+-->
 ### Cloud Native
 <span><img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/CNCF-231F20?style=for-the-badge&logo=CNCF&logoColor=white"></span>
