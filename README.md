@@ -6,18 +6,18 @@
   - blog: http://uni2u.tistory.com
 
 ## Interests
-### Cloud & Cloud Native
+### Cloud Native
 <span><img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/CNCF-231F20?style=for-the-badge&logo=CNCF&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></span>
   
-### Containers & Runtimes
+### Container Runtimes
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=Podman&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/CRI--O-294172?style=for-the-badge&logo=CRI-O&logoColor=white"></span>
 
-### Network & Cloud Native Networking
+### Cloud Native Networking
 <span><img src="https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=Cilium&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/CNI-00B0AD?style=for-the-badge&logo=Container Network Interface&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=Envoy Proxy&logoColor=white"></span>
