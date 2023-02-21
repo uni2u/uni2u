@@ -36,12 +36,6 @@ badges: https://shields.io/
 <span><img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=Harbor&logoColor=white"></span>
 
 ---
-
-![Stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=uni2u&show_icons=true&count_private=true&line_height=24&theme=nord&hide=stars)
-![Languages](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=uni2u&layout=compact&theme=nord)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <!--  
 # Top 5 Badges That Will Take Your GitHub Repository to the Next Level
 ## 1. GitHub Stats
@@ -62,3 +56,9 @@ badges: https://shields.io/
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 -->
+![Stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=uni2u&show_icons=true&count_private=true&line_height=24&theme=nord&hide=stars)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=uni2u&layout=compact&theme=nord)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
