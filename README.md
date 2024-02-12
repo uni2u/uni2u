@@ -36,6 +36,9 @@ badges: https://shields.io/
 ### Cloud Native Registry
 <span><img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=Harbor&logoColor=white"></span>
 
+### WebAssembly
+<span><img src="https://img.shields.io/badge/webassembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"></span>
+
 ---
 <!--  
 # Top 5 Badges That Will Take Your GitHub Repository to the Next Level
