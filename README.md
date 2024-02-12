@@ -22,6 +22,9 @@ badges: https://shields.io/
 <span><img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/CRI--O-294172?style=for-the-badge&logo=CRI-O&logoColor=white"></span>
 
+### WebAssembly
+<span><img src="https://img.shields.io/badge/webassembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"></span>
+
 ### Cloud Native Networking
 <span><img src="https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=Cilium&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/CNI-00B0AD?style=for-the-badge&logo=Container Network Interface&logoColor=white"></span>
@@ -35,9 +38,6 @@ badges: https://shields.io/
   
 ### Cloud Native Registry
 <span><img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=Harbor&logoColor=white"></span>
-
-### WebAssembly
-<span><img src="https://img.shields.io/badge/webassembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"></span>
 
 ---
 <!--  
