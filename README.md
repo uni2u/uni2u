@@ -28,7 +28,7 @@ badges: https://shields.io/
 ### Cloud Native Networking
 <span><img src="https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=Cilium&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/CNI-00B0AD?style=for-the-badge&logo=Container Network Interface&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=EnvoyProxy&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Linkerd-2BEDA7?style=for-the-badge&logo=Linkerd&logoColor=white"></span>
   
 ### Cloud Native Security
