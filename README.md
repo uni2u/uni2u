@@ -20,7 +20,6 @@ badges: https://shields.io/
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=Podman&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/CRI--O-294172?style=for-the-badge&logo=CRI-O&logoColor=white"></span>
 
 ### WebAssembly
 <span><img src="https://img.shields.io/badge/webassembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"></span>
