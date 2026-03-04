@@ -36,7 +36,7 @@ badges: https://shields.io/
 <span><img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=Harbor&logoColor=white"></span>
 
 ### Agent Networking
-<span><img src="https://img.shields.io/badge/MCP-60B932?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"></span>
 
 
 ---
