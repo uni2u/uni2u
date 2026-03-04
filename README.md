@@ -23,11 +23,14 @@ badges: https://shields.io/
 ### WebAssembly
 <span><img src="https://img.shields.io/badge/webassembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"></span>
 
-### Network
+### Networking
 <span><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"></span>
 
 ### Agent Networking
 <span><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"></span>
+
+### Language
+<span><img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"></span>
 
 
 ---
