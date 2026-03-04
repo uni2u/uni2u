@@ -26,14 +26,15 @@ badges: https://shields.io/
 
 ### Cloud Native Networking
 <span><img src="https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=Cilium&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Linkerd-2BEDA7?style=for-the-badge&logo=Linkerd&logoColor=white"></span>
   
 ### Cloud Native Security
 <span><img src="https://img.shields.io/badge/Falco-00B4C8?style=for-the-badge&logo=Falco&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/notary-000000?style=for-the-badge&logo=notary&logoColor=white"></span>
   
 ### Cloud Native Registry
 <span><img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=Harbor&logoColor=white"></span>
+
+### Network
+<span><img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"></span>
 
 ### Agent Networking
 <span><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"></span>
