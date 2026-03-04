@@ -31,6 +31,7 @@ badges: https://shields.io/
 
 ### Language
 <span><img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></span>
 
 
 ---
