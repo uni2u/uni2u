@@ -2,7 +2,7 @@
 - Yongyoon Shin (@uni2u; Yoon Shin)
   - He worked as a research engineer at [ETRI](https://etri.re.kr/eng/main/main.etri), KOREA, between 2010 and NOW.
   - He has been working for ETRI as a _Principal Engineer_ since 2011.
-  - His research interest in Cloud Native Networking, Future Network, Network Security, 5G and 6G.
+  - His research interest in Cloud Native Networking, Future Network, Network Security, Agent Network.
   - blog: http://uni2u.tistory.com
 
 ## Interests
@@ -34,6 +34,10 @@ badges: https://shields.io/
   
 ### Cloud Native Registry
 <span><img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=Harbor&logoColor=white"></span>
+
+### Agent Networking
+<span><img src="https://img.shields.io/badge/MCP-60B932?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"></span>
+
 
 ---
 <!--  
