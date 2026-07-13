@@ -28,6 +28,7 @@ badges: https://shields.io/
 
 ### Agent Networking
 <span><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/agentskills-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"></span>
 
 ### Language
 <span><img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"></span>
